@@ -1,3 +1,6 @@
+## Live version of the project:
+https://rsobieszek.github.io/Simple-ToDo-App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
